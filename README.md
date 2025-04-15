@@ -1,4 +1,4 @@
-# Wompi Checkout App 💳
+# Checkout App 💳
 
 Prueba técnica: aplicación que permite comprar productos con pagos integrados vía Wompi. Incluye frontend en Vue.js y backend en Nest.js, con manejo de transacciones, stock, y verificación de pagos.
 
